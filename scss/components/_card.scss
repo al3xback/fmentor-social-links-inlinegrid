@@ -12,6 +12,9 @@
 
 .card {
 	display: inline-grid;
+}
+
+.card {
 	gap: func.em(24, var.$font-size-primary);
 	width: 100%;
 	max-width: func.em(330, var.$font-size-primary);
